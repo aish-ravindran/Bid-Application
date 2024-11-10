@@ -5,8 +5,8 @@ import AuctionGrid from '../AuctionGrid/AuctionGrid';
 
 const Landing = () => {
     return (
-        <div>
-            <div className='landing-container' />
+        <div className='container'>
+            <img className='landing-container' src="/Images/girl-image.svg" ></img>
             <div>
                 <AuctionGrid />
             </div>

@@ -1,9 +1,12 @@
 .landing-container{
-background-image: url("../../../public/Images/girl-image.svg");
-background-size: cover;
-height: 100vh;
+height: calc(100vh - 10rem);
+width: 100%;
 display: flex;
 justify-content: center;
 align-items: center;
 color: white;
 text-align: center;}
+.container{
+    height: calc(100vh - 60px); /* 100vh is the full viewport height */
+}
+
