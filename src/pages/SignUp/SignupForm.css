@@ -1,0 +1,22 @@
+.signup-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.form-section-signup {
+  width: 50%;
+  padding: 20px;
+}
+
+.image-section-signup {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-section-signup img {
+  width: 80%;
+}

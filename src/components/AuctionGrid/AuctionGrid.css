@@ -1,0 +1,16 @@
+.gridContainer {
+    padding: 20px;
+}
+
+.filterContainer {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+}
+
+.auctionGridContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
